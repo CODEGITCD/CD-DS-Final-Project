@@ -1,11 +1,13 @@
-# Team Name
+# Team Squadra
 
-## Project Summary
+## Project Ideas
+- Walking cities
+- Cancer Analysis
 
 ### Team Members
 
-- 
-- 
+- Breonna Snipes
+- Carlos Dominguez
 - 
 - 
 
