@@ -1,7 +1,7 @@
 # Team Squadra
 
 ## Project Ideas
-- Walking cities
+- pedestrian cities
 - Cancer Analysis
 
 ### Team Members
