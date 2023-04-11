@@ -9,6 +9,6 @@
 
 - Breonna Snipes
 - Carlos Dominguez
-- Ian
+- Ian Franklin
 - 
 
