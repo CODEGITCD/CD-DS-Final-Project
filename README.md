@@ -1,14 +1,14 @@
 # Team Squadra
 
-## Project Ideas
-- pedestrian cities
-- Cancer Analysis
-- Diabetes meds vs Exercise
+## Project 
+- Cancer Analysis- lifestyle and environmental factors
+
 
 ### Team Members
 
 - Breonna Snipes
 - Carlos Dominguez
 - Ian Franklin
-- 
+- Vanessa Fernandez
+- Tawanda Ragoza
 
