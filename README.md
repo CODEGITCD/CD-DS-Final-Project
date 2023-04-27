@@ -6,9 +6,6 @@
 
 ### Team Members
 
-- Breonna Snipes
 - Carlos Dominguez
-- Ian Franklin
-- Vanessa Fernandez
-- Tawanda Ragoza
+
 
